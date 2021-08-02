@@ -1,0 +1,107 @@
+2021-06-04 14:04:12|   0.0|  0.0|INFORM|FME 2020.2.0.0 (20201027 - Build 20787 - WIN64)
+2021-06-04 14:04:12|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2021-06-04 14:04:12|   0.0|  0.0|INFORM|FME Database Edition (floating)
+2021-06-04 14:04:12|   0.0|  0.0|INFORM|Permanent License.
+2021-06-04 14:04:12|   0.1|  0.0|INFORM|Machine host name is: OL101019
+2021-06-04 14:04:12|   0.1|  0.0|INFORM|START - ProcessID: 18108, peak process memory usage: 41092 kB, current process memory usage: 41092 kB
+2021-06-04 14:04:12|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/DB/LDS_Raster\wb-xlate-1622772250208_16392' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{0dd4ce5f-4120-4377-9422-37296d16d468}'
+2021-06-04 14:04:12|   0.1|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\DPark\AppData\Roaming\Safe Software\FME\'
+2021-06-04 14:04:14|   0.7|  0.6|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;\\ad.linz.govt.nz\dfs\opa\redirectedfolders\DPark\Documents\FME\Formats
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Shared folders for transformers are : C:\Users\DPark\AppData\Roaming\Safe Software\FME\Packages\20787-win64\transformers;C:\Program Files\FME\transformers;C:\Users\DPark\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Shared folders for coordinate systems are : \\ad.linz.govt.nz\dfs\opa\redirectedfolders\DPark\Documents\FME\CoordinateSystems
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\ad.linz.govt.nz\dfs\opa\redirectedfolders\DPark\Documents\FME\CoordinateSystemExceptions
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\ad.linz.govt.nz\dfs\opa\redirectedfolders\DPark\Documents\FME\CoordinateSystemGridOverrides
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\ad.linz.govt.nz\dfs\opa\redirectedfolders\DPark\Documents\FME\CsmapTransformationExceptions
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Shared folders for transformer categories are : \\ad.linz.govt.nz\dfs\opa\redirectedfolders\DPark\Documents\FME\TransformerCategories
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Current working folder is `C:\DB\LDS_Raster'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\DPark\AppData\Local\Temp\wbrun_1622765290413_16392\fmetmp_1622772251533_16392', set from environment variable `FME_TEMP'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DB\LDS_Raster/'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'geotiff2none.fmw'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2020.2.0.0'
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|System Status: 63.86 GB of disk space available in the FME temporary folder (C:\Users\DPark\AppData\Local\Temp\wbrun_1622765290413_16392\fmetmp_1622772251533_16392)
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|System Status: 31.86 GB of physical memory available
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|System Status: 127.43 GB of virtual memory available
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 18362)
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Platform: WIN64
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Locale: en_NZ
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|System Encoding: windows-1252
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 95.57 GB
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 71.68 GB
+2021-06-04 14:04:14|   0.7|  0.0|INFORM|Creating writer for format: 
+2021-06-04 14:04:15|   0.7|  0.0|INFORM|Creating reader for format: 
+2021-06-04 14:04:15|   0.7|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2021-06-04 14:04:15|   0.7|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2021-06-04 14:04:15|   0.7|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2021-06-04 14:04:15|   0.7|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2021-06-04 14:04:15|   0.8|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2021-06-04 14:04:15|   0.8|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20200115)
+2021-06-04 14:04:15|   0.8|  0.0|INFORM|Emptying factory pipeline
+2021-06-04 14:04:15|   0.8|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2021-06-04 14:04:15|   0.8|  0.0|STATS |Unexpected Input Remover Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-06-04 14:04:15|   0.8|  0.0|STATS |GEOTIFF_GEOTIFF_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-06-04 14:04:15|   0.9|  0.2|STATS |Restoring 1 feature(s) from FME feature store file `C:\Users\DPark\AppData\Local\Temp\wb-cache-geotiff2none-XRMPXP\Main_Reprojector -1 4 fo 0 REPROJECTED  0  100965a869038cdb7dedb1dcce87d5ef7eecb881.ffs'
+2021-06-04 14:04:15|   1.0|  0.1|INFORM|Creating writer for format: GeoTIFF (Geo-referenced Tagged Image File Format)
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOTIFF'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|Loaded module 'GEOTIFF' from file 'C:\Program Files\FME\plugins/gdal/GDAL.dll'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|FME API version of module 'GEOTIFF' matches current internal version (3.8 20200115)
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|FME API version of module 'GEOTIFF' matches current internal version (3.8 20200115)
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|Writer `GEOTIFF_2' of type `GEOTIFF' using group definition keyword `GEOTIFF_2_DEF'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|FME API version of module 'GEOTIFF' matches current internal version (3.8 20200115)
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_OFFSETS_IN_CS_UNITS' to value 'Yes'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_PROJECTED_COORDSYS_AS_EPSG_CODE' to value 'Yes'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_GEOGRAPHIC_COORDSYS_AS_EPSG_CODE' to value 'Yes'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_GEOGRAPHIC_KEYS_FOR_PROJECTED_COORDSYS' to value 'Yes'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting writer level option '_WRITE_ESRI_COMPATIBLE_COORDSYS' to value 'No'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_compression_method' to value 'none' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_jpeg_compression_level' to value '25' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_deflate_compression_level' to value '6' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_zstd_compression_level' to value '9' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_tab_file_generation' to value 'no' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_interleaving_type' to value 'BSQ' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_byte_order' to value 'machine' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|INFORM|GEOTIFF writer: Setting feature type level option 'geotiff_calculate_minmax_tifftags' to value 'no' for feature type 'fme_basename+1'
+2021-06-04 14:04:15|   1.0|  0.0|WARN  |GEOTIFF writer: Overwriting option 'geotiff_compression_method' from feature type 'fme_basename+1' with feature format attribute. New value is 'lzw'. Other features may also overwrite this option
+2021-06-04 14:04:16|   1.6|  0.6|INFORM|Reprojector_REPROJECTED_-1_6_Player (RecorderFactory): Played back 1 feature(s) from file `C:\Users\DPark\AppData\Local\Temp\wb-cache-geotiff2none-XRMPXP\Main_Reprojector -1 4 fo 0 REPROJECTED  0  100965a869038cdb7dedb1dcce87d5ef7eecb881.ffs'
+2021-06-04 14:04:16|   1.6|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 1 input feature(s), wrote 1 output feature(s): 0 matched merge filters, 1 were routed to output, 0 could not be routed.
+2021-06-04 14:04:16|   1.6|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2021-06-04 14:04:16|   1.6|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|INFORM|Feature output statistics for `GEOTIFF' writer using keyword `GEOTIFF_2':
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |                               Features Written
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |fme_basename+1                                                               1
+2021-06-04 14:04:16|   1.6|  0.0|STATS |==============================================================================
+2021-06-04 14:04:16|   1.6|  0.0|STATS |Total Features Written                                                       1
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |                            Features Read Summary
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |==============================================================================
+2021-06-04 14:04:16|   1.6|  0.0|STATS |Total Features Read                                                          0
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |                           Features Written Summary
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|STATS |fme_basename+1                                                               1
+2021-06-04 14:04:16|   1.6|  0.0|STATS |==============================================================================
+2021-06-04 14:04:16|   1.6|  0.0|STATS |Total Features Written                                                       1
+2021-06-04 14:04:16|   1.6|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~                                                                             ~-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~                                                                             ~-
+2021-06-04 14:04:16|   1.6|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2021-06-04 14:04:16|   1.6|  0.0|INFORM|Translation was SUCCESSFUL with 8 warning(s) (1 feature(s) output)
+2021-06-04 14:04:16|   1.6|  0.0|INFORM|FME Session Duration: 3.6 seconds. (CPU: 0.8s user, 0.3s system)
+2021-06-04 14:04:16|   1.6|  0.0|INFORM|END - ProcessID: 18108, peak process memory usage: 196880 kB, current process memory usage: 95368 kB
